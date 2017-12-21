@@ -55,7 +55,9 @@ On client side <b>(index.jsp)</b> I used AJAX. After the page has been loaded, A
   </p>
   <h5>References</h5>
 <h6>
+
  <a href="https://www.javaworld.com/article/2077995/java-concurrency/java-concurrency-asynchronous-processing-support-in-servlet-3-0.html">Asynchronous processing support in Servlet 3.0</a>  <br>
+ <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/rmi/hello/hello-world.html">Getting Started Using Java™ RMI</a><br>
 <a href="http://awaxman11.github.io/blog/2013/07/21/checking-out-js/"> "How jQuery and AJAX Actually Work" </a> <br>
 <a href="https://www.w3schools.com/PhP/php_ajax_intro.asp "> AJAX Introduction</a>
 
